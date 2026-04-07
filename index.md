@@ -1,5 +1,6 @@
 ![](https://github.com/team-wumtk/manoa-study-spaces.github.io/blob/main/doc/landing-page.png)
-![Static Badge](https://img.shields.io/badge/google_drive-team_contract-blue?style=flat&logo=googledrive&color=blue)
+![Static Badge](https://img.shields.io/badge/google_drive-team_contract-blue?style=flat&logo=googledrive&color=blue&link=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1Kzb5oQ6aFM3xqITkhNOikW0H4THfPBxzFypXOsg1fgU%2Fedit%3Fusp%3Dsharing)
+
 
 
 ## Overview
