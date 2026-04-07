@@ -10,7 +10,7 @@ date: 2026-04-06
 * Jonell Elizabeth Udasco
 * Tanner Tashiro
 * [Isabella Mow](https://github.com/isabellamow)
-* Brian Kim
+* [Brian Kim](https://fuburian.github.io/)
 
 ## Project Links
 ### Team Contract
