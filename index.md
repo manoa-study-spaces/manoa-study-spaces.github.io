@@ -1,13 +1,4 @@
----
-layout: essay
-type: essay
-title: "Manoa Study Spaces"
-date: 2026-04-06
-labels:
-  - Software Engineering
-  - Nextjs
-  - Bootstrap
----
+
 
 ## Members
 * Chloe Whitaker
