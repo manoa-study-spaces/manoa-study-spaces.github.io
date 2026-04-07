@@ -9,7 +9,7 @@ date: 2026-04-06
 * Chloe Whitaker
 * Jonell Elizabeth Udasco
 * Tanner Tashiro
-* Isabella Mow
+* [Isabella Mow](https://github.com/isabellamow)
 * Brian Kim
 
 ## Project Links
