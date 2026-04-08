@@ -9,7 +9,7 @@ date: 2026-04-06
 * [Chloe Whitaker](https://codovey.github.io)
 * [Jonell Elizabeth Udasco](https://judasco.github.io/)
 * [Tanner Tashiro](https://tanner-tashiro.github.io/)
-* [Isabella Mow](https://github.com/isabellamow)
+* [Isabella Mow](https://isabellamow.github.io/)
 * [Brian Kim](https://fuburian.github.io/)
 
 ## Project Links
