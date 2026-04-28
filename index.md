@@ -69,7 +69,7 @@ Would also like to implement a filter for M3.
 
 ### Add Space Page
 This is the form to add a space with name, image, quiet levels, capacity, etc.
-![](add-page.png)
+![](add-space.png)
 
 ### Today's Spaces Page
 Will list all the posted spaces today. 
