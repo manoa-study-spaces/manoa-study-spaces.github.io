@@ -67,9 +67,12 @@ We would like to add more to this in the future, such as a rating and commenting
 Would also like to implement a filter for M3.
 ![](listing-page.png)
 
-### Add Space Page
+### Add Space Form
 This is the form to add a space with name, image, quiet levels, capacity, etc.
 ![](add-space.png)
+
+### Review Page
+![]()
 
 ### Today's Spaces Page
 Will list all the posted spaces today. 
@@ -78,6 +81,16 @@ Will list all the posted spaces today.
 ### Study Group Page
 Currently working on addSpace component, then we'll be able to assign a date to the Card 
 ![](study-group-page.png)
+
+### Add Study Group Form
+![]()
+
+## Community Feedback
+1. 
+2. 
+3.
+4.
+5.
 
 ## Developer Guide
 This section explains how developers can download, install, run, and modify the Manoa Study Spaces application.
